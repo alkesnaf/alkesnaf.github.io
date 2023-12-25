@@ -1,3 +1,9 @@
+body, h1, p, div, a {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 .navbar {
     background-color: #893c05;
     overflow: hidden;
