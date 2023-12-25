@@ -1,22 +1,17 @@
-body, h1, p, div, a {
+/* body, h1, p, div, a {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
+} */
 
-body {
-    padding: 20px;
-}
-
-p {
-    padding: 10px;
-}
 
 .navbar {
     background-color: #893c05;
-    overflow: hidden;
-    margin: 0;
-    padding: 0;
+    width: 100%;
+margin: auto;
+display: flex;
+align-items: center;
+justify-content: space-between;
 }
 
 .navbar a {
