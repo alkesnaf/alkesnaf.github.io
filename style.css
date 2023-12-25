@@ -2,6 +2,10 @@ body {
     margin: 0;
 }
 
+h1, p {
+    margin: 8px;
+}
+
 
 .navbar {
     background-color: #893c05;
