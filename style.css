@@ -33,6 +33,6 @@ h1, h2, p {
 img {
     float: right;
     border-radius: 25px;
-    padding-top: 10px;
+    padding-top: -10px;
     padding-right: 10px;
 }
