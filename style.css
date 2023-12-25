@@ -1,8 +1,6 @@
-/* body, h1, p, div, a {
+body {
     margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-} */
+}
 
 
 .navbar {
