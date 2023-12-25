@@ -2,6 +2,7 @@
     background-color: #893c05;
     overflow: hidden;
     margin: 0;
+    padding: 0;
 }
 .navbar a{
     float: left;
