@@ -1,7 +1,7 @@
 .navbar{
     background-color: #893c05;
     overflow: hidden;
-    width: 100%;
+    margin: auto;
 }
 .navbar a{
     float: left;
