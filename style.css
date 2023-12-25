@@ -1,6 +1,7 @@
 .navbar{
     background-color: #893c05;
     overflow: hidden;
+    left: 0;
 }
 .navbar a{
     float: left;
@@ -9,7 +10,6 @@
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
-  margin: 0%;
 }
 
 .navbar a:hover {
