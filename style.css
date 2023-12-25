@@ -29,3 +29,8 @@ h1, h2, p {
     background-color: #ffffff;
     color: #893c05;
 }
+
+img {
+    float: right;
+    border-radius: 25px;
+}
