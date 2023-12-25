@@ -1,4 +1,4 @@
-body, h1, p, div, a {
+div {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
