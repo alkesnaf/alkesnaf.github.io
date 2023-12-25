@@ -3,7 +3,7 @@ body {
     font-family: 'Roboto Mono';
 }
 
-h1, p {
+h1, h2, p {
     margin: 14px;
     font-family: 'Roboto Mono';
 }
