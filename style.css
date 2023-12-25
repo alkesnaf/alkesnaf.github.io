@@ -34,6 +34,7 @@ h1, h2, p {
 img {
     float: right;
     border-radius: 25px;
-   
+    margin-top: 0px;
+    margin-right: 20px;
     /* margin: 0 */
 }
