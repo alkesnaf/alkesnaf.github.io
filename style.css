@@ -7,11 +7,9 @@
 
 .navbar {
     background-color: #893c05;
-    width: 100%;
-margin: auto;
-display: flex;
-align-items: center;
-justify-content: space-between;
+    overflow: hidden;
+    margin: 0 auto;
+
 }
 
 .navbar a {
