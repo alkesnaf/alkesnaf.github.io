@@ -31,18 +31,13 @@ h1, h2, h3, h4, p {
     color: #2873DF;
 }
 
- h4 p
- color: #19B239    roject h4 {
-    color: #19B39
-}
-
  .project h4{
      font-weight: 700;
+     color: #19B239
  }
 
  .project p {
-    color:#19B239
-    margin: 18px;
+     margin: 18px;
  }
 
 
