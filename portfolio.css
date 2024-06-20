@@ -31,9 +31,19 @@ h1, h2, h3, h4, p {
     color: #2873DF;
 }
 
-.project h4 {
-    color: #19B239
+ h4 p
+ color: #19B239    roject h4 {
+    color: #19B39
 }
+
+ .project h4{
+     font-weight: 700;
+ }
+
+ .project p {
+    color:#19B239
+    margin: 18px;
+ }
 
 
 img {
