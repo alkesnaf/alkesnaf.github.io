@@ -11,7 +11,7 @@ h1, h2, p {
 
 
 .navbar {
-    background-color: #893c05;
+    background-color: #2873DF;
     overflow: hidden;
     margin: 0 auto;
 
@@ -28,7 +28,7 @@ h1, h2, p {
 
 .navbar a:hover {
     background-color: #ffffff;
-    color: #893c05;
+    color: ##2873DF;
 }
 
 img {
