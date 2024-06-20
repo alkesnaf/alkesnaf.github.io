@@ -28,13 +28,13 @@ h1, h2, p {
 
 .navbar a:hover {
     background-color: #ffffff;
-    color: ##2873DF;
+    color: #2873DF;
 }
 
 img {
     float: right;
     border-radius: 25px;
-    margin-top: -40px;
+    margin-top: -40px
     margin-right: 20px;
     width: 30%;
     height: auto;
