@@ -4,7 +4,7 @@ body {
     padding: 0;
 }
 
-h1, h2, h3, h4, a, p {
+h1, h2, h3, h4, p {
     margin: 14px;
     font-family: 'Roboto Mono';
 }
@@ -29,6 +29,10 @@ h1, h2, h3, h4, a, p {
 .navbar a:hover {
     background-color: #ffffff;
     color: #2873DF;
+}
+
+.project {
+
 }
 
 img {
