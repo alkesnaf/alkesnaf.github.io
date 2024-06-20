@@ -9,6 +9,10 @@ h1, h2, h3, h4, p {
     font-family: 'Roboto Mono';
 }
 
+h3 {
+    color: #6C17F6;
+}
+
 
 .navbar {
     background-color: #2873DF;
@@ -31,17 +35,13 @@ h1, h2, h3, h4, p {
     color: #2873DF;
 }
 
-.project h3{
-    color: #6628F5;
-}
-
 .project h4{
     font-weight: 700;
     color: #19B239;
  }
 
  .project p {
-     margin: 18px;
+     margin: 28px;
  }
 
 
