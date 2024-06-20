@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    font-family: 'Roboto Mono';
+    padding: 0;
+}
+
+h1, h2, p {
+    margin: 14px;
+    font-family: 'Roboto Mono';
+}
+
+
+.navbar {
+    background-color: #2873DF;
+    overflow: hidden;
+    margin: 0 auto;
+
+}
+
+.navbar a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.navbar a:hover {
+    background-color: #ffffff;
+    color: #2873DF;
+}
+
+img {
+    float: right;
+    border-radius: 25px;
+    margin-top: -40px;
+    margin-right: 20px;
+}
