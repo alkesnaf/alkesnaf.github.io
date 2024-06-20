@@ -30,6 +30,9 @@ h1, h2, h3, h4, p {
     background-color: #ffffff;
     color: #2873DF;
 }
+.project h3{
+    color: #6628F5
+}
 
  .project h4{
      font-weight: 700;
