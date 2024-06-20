@@ -31,9 +31,10 @@ h1, h2, h3, h4, p {
     color: #2873DF;
 }
 
-.project {
-
+.project h4 {
+    color: #19B239
 }
+
 
 img {
     float: right;
