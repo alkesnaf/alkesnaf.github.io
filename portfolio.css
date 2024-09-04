@@ -44,19 +44,18 @@ h3 {
      margin: 32px;
  }
 
- .awards {
-    text-align: justify;
-    width: 50%;
+ /* .awards { */
+ /*    text-align: justify; */
+ /*    width: 50%; */
 
- }
+ /* } */
  .awards img {
-    display: block;
     margin: 0 auto;
  }
 
 
 img {
-    /* float: left; */
+     float: left;
     /* border-radius: 25px; */
     /* margin-top: 50px; */
     /* margin-right: 20px; */
