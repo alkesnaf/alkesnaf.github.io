@@ -5,20 +5,20 @@ body {
 }
 
 h1, h2 {
-    margin: 16px;
+    margin: 14px;
     font-family: 'Roboto Mono';
 }
 
 h3 {
     color: #6C17F6;
-    margin-left: 32px;
+    margin-left: 28px;
 }
 h4 {
-    margin-left: 48px;
+    margin-left: 42px;
 }
 
 p {
-     margin-left: 48px;
+     margin-left: 56px;
 }
 
 
@@ -46,7 +46,6 @@ p {
 .awards, .projects h4{
     font-weight: 700;
     color: #19B239;
-    padding-left: 20px;
  }
  .awards {
      text-align: justify;
