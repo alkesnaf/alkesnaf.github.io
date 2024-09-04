@@ -46,10 +46,10 @@ h3 {
 
 
 img {
-    float: center;
+    float: left;
     border-radius: 25px;
     margin-top: -40px;
     margin-right: 20px;
-    width: 30%;
-    height: auto;
+    width: 20%;
+    height: 20%;
 }
