@@ -10,10 +10,10 @@ h1, h2, {
 
 h3 {
     color: #6C17F6;
-    margin: 32px;
+    margin-left: 32px;
 }
 h4 {
-    margin: 48px;
+    margin-left: 48px;
 }
 
 
@@ -43,11 +43,11 @@ h4 {
     color: #19B239;
     padding-left: 20px;
  }
- /* .awards { */
- /*    text-align: justify; */
+ .awards {
+     text-align: justify;
  /*    width: 50%; */
 
- /* } */
+ }
  .awards img {
     margin: 0 auto;
     float: left;
