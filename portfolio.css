@@ -35,12 +35,12 @@ h3 {
     color: #2873DF;
 }
 
-.projects h4{
+.awards, .projects h4{
     font-weight: 700;
     color: #19B239;
  }
 
- .projects p {
+ .awards, .projects p {
      margin: 32px;
  }
 
