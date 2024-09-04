@@ -56,10 +56,10 @@ h3 {
 
 
 img {
-    float: left;
-    border-radius: 25px;
-    margin-top: 50px;
-    margin-right: 20px;
+    /* float: left; */
+    /* border-radius: 25px; */
+    /* margin-top: 50px; */
+    /* margin-right: 20px; */
     width: 20%;
     height: 20%;
 }
