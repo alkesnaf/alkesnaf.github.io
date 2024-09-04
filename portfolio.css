@@ -57,9 +57,8 @@ p {
 .awards img {
     margin: 0 auto;
     float: left;
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
     border-radius: 25px;
     display: block;
-    padding: 42px;
  }
