@@ -1,2 +1,1 @@
-# This is my personal website
-*work in progress*
+# Al-kesna's personal website
